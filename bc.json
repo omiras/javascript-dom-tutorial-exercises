@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://amber-guppy-7dpssunv.ws-us03.gitpod.io",
+    "address": "https://coral-turkey-4m73wzhb.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -44,7 +44,7 @@
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01-hello-world",
             "translations": [
                 "es",
@@ -55,7 +55,7 @@
         {
             "slug": "02-Select-DOM-Element",
             "title": "02-Select-DOM-Element",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Select-DOM-Element",
             "translations": [
                 "es",
